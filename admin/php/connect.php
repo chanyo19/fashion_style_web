@@ -4,10 +4,10 @@ $local_conn = 1;
 
 if ($local_conn) {
 //intialize the connections for localhost
-    $db_host = "localhost";
-    $db_username = "root";
-    $db_password = "";
-    $db_name = "chandimal";
+    $db_host = "sql306.epizy.com";
+    $db_username = "epiz_24449884";
+    $db_password = "VNhLTI4p85";
+    $db_name = "epiz_24449884_chandimal";
 	//echo "connected";
 } 
 else {
