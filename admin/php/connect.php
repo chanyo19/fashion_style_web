@@ -12,10 +12,10 @@ if ($local_conn) {
 } 
 else {
     //intialize the connections for web
-    $db_host = "localhost";
-    $db_username = "";
-    $db_password = "";
-    $db_name = "";
+    $db_host = "sql306.epizy.com";
+    $db_username = "epiz_24449884";
+    $db_password = "VNhLTI4p85";
+    $db_name = "epiz_24449884_chandimal";
 	//echo "connected";
 	
 }
